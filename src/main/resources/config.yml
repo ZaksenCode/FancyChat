@@ -1,0 +1,2 @@
+command-prefix: "[FC] "
+message-format: "[%s] <%s> %s"

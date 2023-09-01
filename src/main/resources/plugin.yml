@@ -1,0 +1,12 @@
+name: FancyChat
+version: '${project.version}'
+main: org.zaksen.fancychat.FancyChat
+api-version: '1.20'
+authors: [Zaksen_]
+commands:
+  fancy_chat:
+    description: use to work with FancyChat
+    usage: /fancy_chat <subcommand> <args>
+    aliases:
+      - fc
+      - fnc
